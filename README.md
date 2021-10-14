@@ -1,5 +1,5 @@
 # Car-Demage-Detection
-car-damage classification model for car insurences
+car-damage classification model for car insurances
 
 ### General info
 This project is about a car-damage classification model for a car insurence to simplify the regulation process with cnn (mobilenet). The hole model-pipeline consits of 3 different models. 
